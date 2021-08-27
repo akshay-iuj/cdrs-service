@@ -1,12 +1,13 @@
-package com.models;
-
-import org.springframework.data.annotation.Id;
+package com.cdrs.parser.models;
 
 import org.hibernate.validator.constraints.NotBlank;
+import org.springframework.data.annotation.Id;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Table;
 import javax.validation.constraints.Size;
-import java.io.File;
 import java.sql.Date;
 
 @Entity
@@ -49,6 +50,11 @@ public class CdrsDbDetails {
     @Size(max = 50)
     public String FileName;
 
+
+    public CdrsDbDetails()
+    {
+
+    }
     public CdrsDbDetails(String ANUM, String BNUM, int serviceType, int callCategory, int subscriberType, Date startDatetime, int usedAmount, int charge,String fileName) {
         this.ANUM = ANUM;
         this.BNUM = BNUM;

@@ -1,9 +1,6 @@
-package com.models;
+package com.cdrs.parser.models;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper;
-import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
-
 
 
 @JsonPropertyOrder({ "ANUM", "BNUM",  "ServiceType","CallCategory","SubscriberType","StartDatetime","UsedAmount"})
