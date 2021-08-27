@@ -1,12 +1,12 @@
-package com;
+package com.cdrs.parser;
 
 import java.io.File;
 import java.io.IOException;
 
-import com.parser.CsvParser;
-import com.parser.JsonParser;
-import com.parser.Parser;
-import com.parser.XmlParser;
+import com.cdrs.parser.parser.CsvParser;
+import com.cdrs.parser.parser.JsonParser;
+import com.cdrs.parser.parser.Parser;
+import com.cdrs.parser.parser.XmlParser;
 
 public class Main {
 

@@ -1,10 +1,9 @@
-package com.parser;
+package com.cdrs.parser.parser;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.models.CdrsDbDetails;
-import com.models.CdrsFileDetails;
+import com.cdrs.parser.models.CdrsFileDetails;
 
 import java.io.File;
 import java.io.IOException;

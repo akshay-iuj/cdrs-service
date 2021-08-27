@@ -1,4 +1,4 @@
-package com.enums;
+package com.cdrs.parser.enums;
 
 public enum EnumCallCategory {
     Local("1"),

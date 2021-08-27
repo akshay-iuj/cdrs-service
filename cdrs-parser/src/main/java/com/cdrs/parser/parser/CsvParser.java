@@ -1,7 +1,6 @@
-package com.parser;
+package com.cdrs.parser.parser;
 
-import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.models.CdrsFileDetails;
+import com.cdrs.parser.models.CdrsFileDetails;
 import com.fasterxml.jackson.databind.MappingIterator;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;
 import com.fasterxml.jackson.dataformat.csv.CsvSchema;

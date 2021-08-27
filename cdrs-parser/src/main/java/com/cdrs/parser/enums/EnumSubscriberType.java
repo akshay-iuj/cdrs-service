@@ -1,4 +1,4 @@
-package com.enums;
+package com.cdrs.parser.enums;
 
 public enum EnumSubscriberType {
     Postpaid("1") ,

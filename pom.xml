@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>cdrs-com.parser</module>
+        <module>cdrs-parser</module>
         <module>cdrs-api</module>
+        <module>cdrs-common</module>
     </modules>
 
 

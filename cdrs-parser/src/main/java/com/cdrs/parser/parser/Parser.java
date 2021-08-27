@@ -1,4 +1,4 @@
-package com.parser;
+package com.cdrs.parser.parser;
 
 import java.io.File;
 import java.io.IOException;

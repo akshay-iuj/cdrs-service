@@ -1,11 +1,8 @@
-package com.parser;
+package com.cdrs.parser.parser;
 
 import com.fasterxml.jackson.databind.MappingIterator;
-import com.fasterxml.jackson.dataformat.csv.CsvMapper;
-import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
-import com.models.CdrsFileDetails;
-import com.parser.Parser;
+import com.cdrs.parser.models.CdrsFileDetails;
 
 import java.io.File;
 import java.io.IOException;
