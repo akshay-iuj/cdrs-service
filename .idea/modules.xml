@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cdrs-api/cdrs-api.iml" filepath="$PROJECT_DIR$/cdrs-api/cdrs-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cdrs-parser/cdrs-parser.iml" filepath="$PROJECT_DIR$/cdrs-parser/cdrs-parser.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cdrs-service.iml" filepath="$PROJECT_DIR$/.idea/cdrs-service.iml" />
     </modules>
   </component>
