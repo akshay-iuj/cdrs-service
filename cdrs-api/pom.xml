@@ -57,6 +57,12 @@
             <version>20210307</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.cdrs</groupId>
+            <artifactId>algorithm-task</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
     <properties>
