@@ -1,0 +1,313 @@
+[ {
+  "ANUM" : "006596123456",
+  "BNUM" : "65963004444",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "0.5"
+}, {
+  "ANUM" : "006596123456",
+  "BNUM" : "65963004422",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "2.0",
+  "Charge" : "1.0"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "0.5"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "3.0",
+  "Charge" : "4.5"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "4.0",
+  "Charge" : "2.0"
+}, {
+  "ANUM" : "006596312700",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "7.0",
+  "Charge" : "3.5"
+}, {
+  "ANUM" : "006596312792",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "2.0",
+  "Charge" : "3.0"
+}, {
+  "ANUM" : "006596312791",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "2.0"
+}, {
+  "ANUM" : "006596312799",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.15"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.25"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "2.0"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "2.5"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "4.0",
+  "Charge" : "4.0"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "1.5"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "9.0",
+  "Charge" : "54.0"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "6.0",
+  "Charge" : "36.0"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : "65963042433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "4.0",
+  "Charge" : "8.0"
+}, {
+  "ANUM" : "006596312700",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "7.0",
+  "Charge" : "3.5"
+}, {
+  "ANUM" : "006596312792",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "2.0"
+}, {
+  "ANUM" : "006596312791",
+  "BNUM" : "65963004433",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "2.0"
+}, {
+  "ANUM" : "006596312744",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.15"
+}, {
+  "ANUM" : "006596312777",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.15"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "2.0"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : "65963004433",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "2.5"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "1.0"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "1.5"
+}, {
+  "ANUM" : "006596312793",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.0"
+}, {
+  "ANUM" : "006596312790",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "5.0"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : "6596312700",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "2.0",
+  "Charge" : "4.0"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : "6596312700",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.15"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "3.0",
+  "Charge" : "15.0"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : "6596312700",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "1.0",
+  "Charge" : "0.5"
+}, {
+  "ANUM" : "006596312796",
+  "BNUM" : "6596312700",
+  "ServiceType" : "Voice",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Prepaid",
+  "UsedAmount" : "2.0",
+  "Charge" : "4.0"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : "6596312700",
+  "ServiceType" : "SMS",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "0.0",
+  "Charge" : "0.15"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "3.0",
+  "Charge" : "15.0"
+}, {
+  "ANUM" : "006596312794",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "10.0",
+  "Charge" : "50.0"
+}, {
+  "ANUM" : "006596312750",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "5.0",
+  "Charge" : "25.0"
+}, {
+  "ANUM" : "006596314444",
+  "BNUM" : null,
+  "ServiceType" : "GPRS",
+  "CallCategory" : "Roaming",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "2.0",
+  "Charge" : "10.0"
+}, {
+  "ANUM" : "006596314444",
+  "BNUM" : null,
+  "ServiceType" : "Voice",
+  "CallCategory" : "Local",
+  "SubscriberType" : "Postpaid",
+  "UsedAmount" : "34.0",
+  "Charge" : "10.2"
+} ]
