@@ -10,6 +10,6 @@ public interface ICdrsService {
     List<CdrsDbDetails> getTotalDurationPerDay(String inputDate);
 
     List<CdrsDbDetails> getTotalVolumePerDay(String inputDate);
-    List<CdrsDbDetails> getHighestChargePerDayByANUM();
+    List<CdrsDbDetails> getHighestChargePerDay();
     CdrsDbDetails getLongestDurationANUM();
 }

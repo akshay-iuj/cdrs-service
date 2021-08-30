@@ -25,8 +25,8 @@ public class CdrsService implements  ICdrsService{
     }
 
     @Override
-    public List<CdrsDbDetails> getHighestChargePerDayByANUM() {
-        return cdrsRepository.getHighestChargePerDayByANUM();
+    public List<CdrsDbDetails> getHighestChargePerDay() {
+        return cdrsRepository.getHighestChargePerDay();
     }
 
     @Override
