@@ -8,6 +8,8 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/algorithm-task/pom.xml" />
+        <option value="$PROJECT_DIR$/cdrs-api/pom.xml" />
         <option value="$PROJECT_DIR$/cdrs-common/pom.xml" />
       </set>
     </option>
