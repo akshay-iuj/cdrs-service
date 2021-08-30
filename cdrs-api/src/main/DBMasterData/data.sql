@@ -1,0 +1,12 @@
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (1,1,1,0.3);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (1,1,2,0.5);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (1,2,1,1.5);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (1,2,2,2.0);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (2,1,1,0.15);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (2,1,2,0.25);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (2,2,1,2.0);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (2,2,2,2.5);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (3,1,1,1.0);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (3,1,2,1.5);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (3,2,1,5.0);
+INSERT INTO calculator_master_data (service_type,call_category,subscriber_type,charge_per_unit) VALUES (3,2,2,6.0);
